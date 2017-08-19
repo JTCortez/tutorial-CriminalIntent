@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/menu/fragment_crime_list.xml",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/menu/fragment_crime_list.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/menu/fragment_crime_list.xml",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/menu/fragment_crime_list.xml"
+    }
+]

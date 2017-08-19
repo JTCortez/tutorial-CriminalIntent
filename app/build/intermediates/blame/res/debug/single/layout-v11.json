@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

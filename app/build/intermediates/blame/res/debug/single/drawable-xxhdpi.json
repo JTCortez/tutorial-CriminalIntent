@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_add.png",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_solved.png",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_solved.png"
+    },
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_solved.png",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_solved.png"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_add.png",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_menu_add.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_solved.png",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/drawable-xxxhdpi/ic_solved.png"
+    },
+    {
+        "merged": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_solved.png",
+        "source": "/Users/tj/AndroidStudioProjects/CriminalIntent/app/src/main/res/drawable-xxxhdpi/ic_solved.png"
+    }
+]
