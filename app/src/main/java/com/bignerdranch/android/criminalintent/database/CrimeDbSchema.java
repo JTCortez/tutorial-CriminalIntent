@@ -1,5 +1,6 @@
 package com.bignerdranch.android.criminalintent.database;
 
+
 /**
  * Created by tj on 8/18/17.
  */

@@ -45,12 +45,19 @@ public class CrimeFragment extends Fragment {
     }
 
     @Override
-    public void onCreate(@Nullable Bundle savedInstanceState) { // unlike acivitys, fragments are public and not protected
+    public void onCreate(Bundle savedInstanceState) { // unlike acivitys, fragments are public and not protected
         super.onCreate(savedInstanceState);
         //mCrime = new Crime();
         //UUID crimeId = (UUID) getActivity().getIntent().getSerializableExtra(CrimeActivity.EXTRA_CRIME_ID); // SHORTCUT FOR RETRIEVING AN EXTRA 1/2
         UUID crimeId = (UUID) getArguments().getSerializable(ARG_CRIME_ID);
         mCrime = CrimeLab.get(getActivity()).getCrime(crimeId); // SHORTCUT FOR RETRIEVING AN EXTRA 2/2
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+
+        CrimeLab.get(getActivity()).updateCrime(mCrime);
     }
 
     @Override
