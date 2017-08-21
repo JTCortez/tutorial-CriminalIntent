@@ -8,6 +8,10 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="26.0.0-alpha1" />
