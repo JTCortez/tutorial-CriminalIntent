@@ -112,6 +112,10 @@
         "source": "/Users/tj/.android/build-cache/96ba8bbf4db19ad22b7f82a57ad6e6e54f1dec87/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout/activity_twopane.xml",
+        "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/layout/activity_twopane.xml"
+    },
+    {
         "merged": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/build/intermediates/res/merged/debug/layout/list_item_crime.xml",
         "source": "/Users/tj/Documents/Develop/Android/Tutorial/AppTutorials/tutorial-CriminalIntent/app/src/main/res/layout/list_item_crime.xml"
     },
