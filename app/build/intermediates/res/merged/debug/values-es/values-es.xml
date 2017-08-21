@@ -19,6 +19,27 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="app_name">IntentoCriminal</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_report">%1$s!
+        El crimen fue descubierto el %2$s. %3$s, y %4$s
+    </string>
+    <string name="crime_report_no_suspect">no hay sospechoso.</string>
+    <string name="crime_report_solved">El caso está resuelto</string>
+    <string name="crime_report_subject">IntentoCriminal Informe del Crimen</string>
+    <string name="crime_report_suspect">el/la sospechoso/a es %s.</string>
+    <string name="crime_report_text">Enviar el Informe del Crimen</string>
+    <string name="crime_report_unsolved">El caso no está resuelto</string>
+    <string name="crime_solved_label">Solucionado</string>
+    <string name="crime_suspect_text">Elegir Sospechoso</string>
+    <string name="crime_title_hint">Introduzca un título para el crimen.</string>
+    <string name="crime_title_label">Título</string>
+    <string name="date_picker_title">Fecha del crimen:</string>
+    <string name="hide_subtitle">Esconder Subtítulos</string>
+    <string name="new_crime">Crimen Nuevo</string>
     <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="send_report">Enviar el informe del crimen a través de</string>
+    <string name="show_subtitle">Mostrar Subtítulos</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="subtitle_format">%1$s crímenes</string>
 </resources>
