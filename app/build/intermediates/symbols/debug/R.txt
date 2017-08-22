@@ -808,6 +808,9 @@ int string abc_shareactionprovider_share_with_application 0x7f070011
 int string abc_toolbar_collapse_description 0x7f070012
 int string app_name 0x7f070016
 int string crime_details_label 0x7f070017
+int string crime_photo_button_description 0x7f070034
+int string crime_photo_image_description 0x7f070035
+int string crime_photo_no_image_description 0x7f070036
 int string crime_report 0x7f070018
 int string crime_report_no_suspect 0x7f070019
 int string crime_report_solved 0x7f07001a

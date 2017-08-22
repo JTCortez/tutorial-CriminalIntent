@@ -2600,6 +2600,9 @@ containing a value of this type.
         public static final int abc_toolbar_collapse_description=0x7f070012;
         public static final int app_name=0x7f070016;
         public static final int crime_details_label=0x7f070017;
+        public static final int crime_photo_button_description=0x7f070034;
+        public static final int crime_photo_image_description=0x7f070035;
+        public static final int crime_photo_no_image_description=0x7f070036;
         public static final int crime_report=0x7f070018;
         public static final int crime_report_no_suspect=0x7f070019;
         public static final int crime_report_solved=0x7f07001a;
